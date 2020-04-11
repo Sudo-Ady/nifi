@@ -1,2 +1,0 @@
-# nifi
-NiFi Working Templates
